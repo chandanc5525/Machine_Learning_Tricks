@@ -1,0 +1,8 @@
+OBJECTIVE fUNCTIONS
+
+- Maximumize the posterior probabilities - Navie Bayes Algorithm
+- Maximize the fiteness function - Genetic Programming
+- Maximize the Total value/Reward function - Reinforncement Learning
+- Maximize the informnation gain/Minimize the child node impurities -  CART Decision Tree
+- Minimize a mean squared error function/ cost function - CART, Linear Regression, Neural Network
+- Minize hinge loss - Support Vector Machine i.e. SVM
